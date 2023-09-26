@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BABACC08-9EB3-4668-B198-970716F1A1F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Twinship</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B89AEA4C-0914-4B39-86FE-EF7100DEFAEC</key>
+		<string>ssh://github.com/dipinkrishna/Twinship_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Twinship.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B89AEA4C-0914-4B39-86FE-EF7100DEFAEC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/dipinkrishna/Twinship_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B89AEA4C-0914-4B39-86FE-EF7100DEFAEC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B89AEA4C-0914-4B39-86FE-EF7100DEFAEC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Twinship</string>
+		</dict>
+	</array>
+</dict>
+</plist>
